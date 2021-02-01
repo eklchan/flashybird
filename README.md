@@ -1,5 +1,3 @@
-# FlashyBird
-
 # What is FlashyBird?
 
 **NOTE: FlashyBird has currently been taken down for the time being as it is undergoing a major refactor**
