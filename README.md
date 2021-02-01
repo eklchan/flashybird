@@ -26,4 +26,11 @@ FlashyBird is an Intelligent FlashCard Generator that supports 12 languages. A t
 
 4. Enter your  API key into a new .env file in the FlashyBird folder. See example.env for syntax.
 
+5. Enter your computer's local IP in the .env folder. 
+
 5. 🚀 Run expo start
+
+**NOTE** as a Dev version, be sure that all devices connected to the same wifi.
+
+# Images
+
