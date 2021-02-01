@@ -6,8 +6,7 @@
 
 FlashyBird is an Intelligent FlashCard Generator that supports 12 languages. A teacher simply has to add words into the database and a student that logons will have flashcards automatically generated into their respective language. This is especially handy in a classroom setting where students have different first languages.
 
-Video Demo
-[I'm an inline-style link](https://www.youtube.com/watch?v=mBZrJp0nANQ)
+[Click Here for a Video Demo!](https://www.youtube.com/watch?v=mBZrJp0nANQ)
 
 
 # Tech Stack
