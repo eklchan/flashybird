@@ -16,3 +16,14 @@ FlashyBird is an Intelligent FlashCard Generator that supports 12 languages. A t
  - Native Base
  - Expo Client
  
+# Running FlashyBird
+
+1. Fork & clone this repo 🍴
+
+2. cd into FlashyBird and run npm install to install node modules
+
+3. Request an API key from [LINK Bilingual Dictionary API](https://rapidapi.com/fesnt/api/link-bilingual-dictionary)
+
+4. Enter your  API key into a new .env file in the FlashyBird folder. See example.env for syntax.
+
+5. 🚀 Run expo start
