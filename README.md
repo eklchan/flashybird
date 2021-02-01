@@ -34,3 +34,5 @@ FlashyBird is an Intelligent FlashCard Generator that supports 12 languages. A t
 
 # Images
 
+ <img src="./addwords.png" width="30%"></img> <img src="./assets/images/homepage.png" width="30%"></img> <img src="./assets/images/newspage.png" width="30%"></img> <img src="./assets/images/playerscreen.png" width="30%"></img> <img src="./assets/images/profilepage.png" width="30%"></img> <img src="./assets/images/searchpage.png" width="30%"></img> 
+
